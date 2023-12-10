@@ -1,0 +1,11 @@
+div{
+    height: 500px;
+    width: 350px;
+    background-image: url("Elephant.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 200px;
+    
+}

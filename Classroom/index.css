@@ -1,0 +1,33 @@
+#sign{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50%;
+}
+
+#signal{
+    height: 350px;
+    width:100px;
+    background-color:black;
+    padding: 25px;
+}
+#red{
+height: 100px;
+width: 100px;
+background-color: red;
+border-radius: 50%;
+}
+#yellow{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+#green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    margin-top: 25px;
+}

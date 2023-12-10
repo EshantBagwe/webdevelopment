@@ -1,0 +1,29 @@
+.navbar{
+    background-color: rgb(255, 0, 255);
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style-type: none;
+    /* background-color: rgb(145, 145, 145); */
+    
+}
+
+.o{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 138, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.i{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(132, 0, 255);
+      
+}
