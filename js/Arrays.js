@@ -25,5 +25,19 @@
 
 // pq2
 
-let item = [250,645,300,900,50];
-for(let val of item)
+// let item = [250,645,300,900,50];
+// let i=0;
+// for(let val of item){
+// console.log(`value of ${i}=${val}`);
+// let offer = val/10;
+// item[i]=item[i]-offer;
+// console.log(`value after offer = ${item[i]}`);
+// i++
+// }
+//
+
+// for(let i=0;i<item.length;i++){
+//     let offer = item[i]/10;
+//     item[i]-=offer;
+// }
+// console.log(item);
