@@ -52,3 +52,17 @@ document.querySelector("body").style.backgroundColor="white";
 }
 console.log(currMode);
 });
+
+let divbox = document.querySelector("#box");
+let currClr = "Navy";
+divbox.addEventListener("mouseover", () =>{
+    if(currClr === "Navy"){
+        currClr = "purple";
+        document.querySelector("#box").style.backgroundColor="purple";
+    }else{
+    currClr = "Navy";
+    document.querySelector("#box").style.backgroundColor = "Navy";
+    }
+    console.log(currClr);
+})
+
