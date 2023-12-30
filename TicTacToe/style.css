@@ -38,7 +38,8 @@ h1{
     font-family: 'Segoe UI';
 }
 #reset-btn{
-    padding: 1rem;
+    padding: 0.8rem;
+    margin: 1rem;
     font-size: 1.2rem;
     border-radius: 1rem;
     border: none;
@@ -46,4 +47,34 @@ h1{
     background-color:rgb(218, 218, 218);
     color: black;
     font-family: 'Segoe UI';
+}
+
+#newgame-btn{
+    padding: 0.8rem;
+    margin: 1rem;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    border: none;
+    box-shadow:  0 0 1rem rgba(0,0,0,0.4);
+    background-color:rgb(218, 218, 218);
+    color: black;
+    font-family: 'Segoe UI';
+}
+
+#msg{
+color: #28ff02; 
+font-size:5vmin;
+padding-top: 1rem;
+font-family: 'Segoe UI';
+}
+
+.msg-conatiner{
+    height: 30vmin;
+    gap:2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hide{
+    display: none;
 }
